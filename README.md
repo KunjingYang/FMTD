@@ -1,3 +1,3 @@
-# IMTD
+# fMTD
 
-IMTD is a new tensor decomposition method.
+FMTD is a new tensor decomposition method.
